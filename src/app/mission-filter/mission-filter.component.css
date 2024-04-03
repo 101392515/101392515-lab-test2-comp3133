@@ -1,0 +1,40 @@
+.mission-filter-container {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 200px;
+    border-right: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .years-list button {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .missions-display {
+    flex-grow: 1;
+    padding: 10px;
+  }
+  
+  .mission-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .mission-patch {
+    width: 80px; 
+    margin-right: 10px;
+  }
+  
+  .mission-details {
+    flex-grow: 1;
+  }
+  
+  
+  
